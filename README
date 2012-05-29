@@ -1,0 +1,47 @@
+NAME
+    Task::BeLike::TOBYINK::RDF - be like TOBYINK and use these RDF stuffz
+
+DESCRIPTION
+    Task installs the following modules:
+
+    *   RDF::NS
+
+    *   RDF::Query
+
+    *   RDF::Query::Client
+
+    *   RDF::QueryX::Lazy
+
+    *   RDF::RDB2RDF
+
+    *   RDF::RDFa::Generator
+
+    *   RDF::RDFa::Parser
+
+    *   RDF::TriN3
+
+    *   RDF::Trine
+
+    *   Test::RDF
+
+    *   XML::Atom::FromOWL
+
+    *   XML::Atom::OWL
+
+SEE ALSO
+    Acme::About::TOBYINK, Task::BeLike::TOBYINK.
+
+AUTHOR
+    Toby Inkster <tobyink@cpan.org>.
+
+COPYRIGHT AND LICENCE
+    This software is copyright (c) 2012 by Toby Inkster.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
+DISCLAIMER OF WARRANTIES
+    THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+    MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+

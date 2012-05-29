@@ -1,0 +1,41 @@
+---
+abstract: 'be like TOBYINK and use these RDF stuffz'
+author:
+  - 'Toby Inkster <tobyink@cpan.org>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+  Test::More: 0.61
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 1.02'
+keywords: []
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+module_name: Task::BeLike::TOBYINK::RDF
+name: Task-BeLike-TOBYINK-RDF
+no_index:
+  directory:
+    - inc
+    - xt
+requires:
+  RDF::NS: 0
+  RDF::Query: 0
+  RDF::Query::Client: 0
+  RDF::QueryX::Lazy: 0
+  RDF::RDB2RDF: 0
+  RDF::RDFa::Generator: 0
+  RDF::RDFa::Parser: 0
+  RDF::TriN3: 0
+  RDF::Trine: 0
+  Test::RDF: 0
+  XML::Atom::FromOWL: 0
+  XML::Atom::OWL: 0
+  perl: 5.10.0
+resources:
+  bugtracker: http://rt.cpan.org/Dist/Display.html?Queue=Task-BeLike-TOBYINK-RDF
+  homepage: https://metacpan.org/release/Task-BeLike-TOBYINK-RDF
+  license: http://dev.perl.org/licenses/
+version: 2012.150

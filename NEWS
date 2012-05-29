@@ -1,0 +1,12 @@
+RDF::NS
+RDF::Query
+RDF::Query::Client
+RDF::QueryX::Lazy
+RDF::RDB2RDF
+RDF::RDFa::Generator
+RDF::RDFa::Parser
+RDF::TriN3
+RDF::Trine
+Test::RDF
+XML::Atom::FromOWL
+XML::Atom::OWL
